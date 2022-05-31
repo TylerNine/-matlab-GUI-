@@ -1,4 +1,4 @@
-# -matlab-GUI-
+# -matlab-GUI-Flame identification
   本项目可以检测出图片或者视频中的火焰，通过火焰圆形度来进行识别检测
 
 # 本项目选题的依据与意义：
